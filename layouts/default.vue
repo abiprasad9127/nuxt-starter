@@ -29,7 +29,7 @@ export default {
   display: inline-block;
   color: #3B8070;
   letter-spacing: 1px;
-  background-color: #8E4585;
+  background-color: #4682b4;
   border: 2px solid #3B8070;
   text-decoration: none;
   text-transform: uppercase;
