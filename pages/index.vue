@@ -5,7 +5,7 @@
       Netlify Assesment
     </h1>
     <nuxt-link class="button" to="/about">
-      About me
+      Hello!
     </nuxt-link>
   </section>
 </template>
