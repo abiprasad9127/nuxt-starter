@@ -5,7 +5,7 @@
       Universal Vue.js Application Framework
     </h1>
     <nuxt-link class="button" to="/about">
-      About page
+      About me
     </nuxt-link>
   </section>
 </template>
