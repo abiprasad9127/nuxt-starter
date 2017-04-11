@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-    <img src="../assets/img/logo.png" alt="Nuxt.js Logo" />
+    <img src="https://www.netlify.com/img/global/meta-image.jpg" />
     <h1 class="title">
       {{ error.statusCode }}
     </h1>
