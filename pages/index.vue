@@ -27,6 +27,19 @@
    border: 1px solid black;
 }   
 </style>
+
+<html lang="en-us">
+<head>
+<style>
+.city {
+   float: left;
+   margin: 10px;
+   padding: 10px;
+   max-width: 300px;
+   height: 300px;
+   border: 1px solid black;
+}   
+</style>
 </head>
 <body>
 
@@ -56,6 +69,9 @@
   <p>The City of New York is the most populous city in the United States.</p>
   <p>New York is an important center for international diplomacy and has been described as the cultural and financial capital of the world.</p>
 </div>
+
+</body>
+</html>
 
 <style scoped>
 .title
