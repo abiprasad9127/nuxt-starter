@@ -12,6 +12,14 @@
   </head>
 <body>
 
+<style>
+.jumbotron { 
+    background-color: #f4511e; /* Orange */
+    color: #ffffff;
+}
+</style>
+
+
 <div class="jumbotron">
   <h1>Company</h1> 
   <p>We specialize in blablabla</p> 
