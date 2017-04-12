@@ -10,26 +10,32 @@
    </section>
   </template>
   
-  <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Bootstrap Theme Simply Me</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-</head>
+
+<style>
+
+.bg-2 { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+.bg-3 { 
+    background-color: #ffffff; /* White */
+    color: #555555;
+}
+</style>
+
 <body>
 
-<div class="container-fluid">
-  <h3>Who Am I?</h3>
-  <img src="bird.jpg" alt="Bird">
-  <h3>I'm an adventurer</h3>
+<div class="container-fluid bg-2 text-center">
+  <h3>What Am I?</h3>
+  <p>Lorem ipsum..</p>
+</div>
+
+<div class="container-fluid bg-3 text-center">
+  <h3>Where To Find Me?</h3>
+  <p>Lorem ipsum..</p>
 </div>
 
 </body>
-</html>
   
 <style scoped>
 .title
