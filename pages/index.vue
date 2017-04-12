@@ -171,6 +171,14 @@
   </a>
 </div>
 
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
+
+<div id="about" class="container-fluid">
+<div id="services" class="container-fluid">
+<div id="portfolio" class="container-fluid">
+<div id="pricing" class="container-fluid">
+<div id="contact" class="container-fluid">
+
 
 
 </body>
