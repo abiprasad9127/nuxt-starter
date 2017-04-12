@@ -5,10 +5,6 @@
     <h1 class="title">
       Netlify Assesment
     </h1>
-    <nuxt-link class="button" to="/about">
-      Hello!
-    </nuxt-link>
-
     
   <head>
   <title>Bootstrap Theme Company Page</title>
