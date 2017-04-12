@@ -26,6 +26,8 @@
 }
 </style>
 
+
+<style>
 .navbar {
     margin-bottom: 0;
     background-color: #f4511e;
@@ -50,6 +52,7 @@
     border-color: transparent;
     color: #fff !important;
 }
+</style>
 
 <style>
 .bg-grey {
