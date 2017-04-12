@@ -17,7 +17,6 @@
     <li><a href="#">Menu 3</a></li>
   </ul>
   <br>
-  <p><strong>Note:</strong> This example shows how to create a basic navigation tab. It is not toggleable/dynamic yet (you can't click on the links to display different content)- see the last example in the Bootstrap Tabs and Pills Tutorial to find out how this can be done.</p>
 </div>
 
     <img src="https://www.netlify.com/img/global/meta-image.jpg" />
