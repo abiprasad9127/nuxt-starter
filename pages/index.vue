@@ -24,6 +24,17 @@
     background-color: #f6f6f6;
 }
 </style>
+<style>
+.jumbotron {
+    background-color: #f4511e;
+    color: #fff;
+    padding: 100px 25px;
+}
+
+.container-fluid {
+    padding: 60px 50px;
+}
+</style>
 
 <div class="container-fluid">
   <h2>About Company Page</h2>
@@ -39,10 +50,6 @@
 </div>
 
 
-<div class="jumbotron">
-  <h1>Company</h1> 
-  <p>We specialize in blablabla</p> 
-</div>
 
 </body>
 </html>
