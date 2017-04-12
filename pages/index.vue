@@ -3,10 +3,15 @@
   </head>
 <body>
 
-
-
 <template>
   <section class="container">
+  <img src="https://www.netlify.com/img/global/meta-image.jpg" />
+    <h1 class="title">
+      Netlify Assesment
+    </h1>
+    <nuxt-link class="button" to="/about">
+      Hello!
+    </nuxt-link>
   
   <div class="container">
   <h3>Tabs</h3>
@@ -18,17 +23,7 @@
   </ul>
   <br>
 </div>
-
-    <img src="https://www.netlify.com/img/global/meta-image.jpg" />
-    <h1 class="title">
-      Netlify Assesment
-    </h1>
-    <nuxt-link class="button" to="/about">
-      Hello!
-    </nuxt-link>
     
-
-
 <div class="jumbotron">
   <h1>Company</h1> 
   <p>We specialize in blablabla</p> 
