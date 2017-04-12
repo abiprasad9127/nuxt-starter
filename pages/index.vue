@@ -1,4 +1,12 @@
-<head>
+
+<template>
+<section class="container">
+    <img src="https://www.netlify.com/img/global/meta-image.jpg" />
+    <h1 class="title">
+      Netlify Assesment
+    </h1>
+   
+ <head>
   <title>Bootstrap Theme Company Page</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,6 +16,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   </head>
+  
 <style>
 .jumbotron { 
     background-color: #f4511e; /* Orange */
@@ -86,17 +95,10 @@
 }
 </style>
 
-<template>
-<section class="container">
-    <img src="https://www.netlify.com/img/global/meta-image.jpg" />
-    <h1 class="title">
-      Netlify Assesment
-    </h1>
-   
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="30">
 
 <nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container">
+  <div class="container1">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
