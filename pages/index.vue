@@ -7,11 +7,8 @@
     <nuxt-link class="button" to="/about">
       Hello!
     </nuxt-link>
-   </section>
-  </template>
-  
-
-<style>
+    
+    <style>
 
 .bg-2 { 
     background-color: #474e5d; /* Dark Blue */
@@ -37,6 +34,11 @@
 
 </body>
   
+   </section>
+  </template>
+  
+
+
 <style scoped>
 .title
 {
