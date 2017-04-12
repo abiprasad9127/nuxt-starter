@@ -8,7 +8,6 @@
       Hello!
     </nuxt-link>
     
-   <head>
   <head>
   <title>Bootstrap Theme Company Page</title>
   <meta charset="utf-8">
