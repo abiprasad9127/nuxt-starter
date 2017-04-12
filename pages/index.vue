@@ -58,7 +58,7 @@
 }
 
 .container-fluid {
-    padding: 60px 50px;
+    padding: 20px 20px;
 }
 
 .carousel-control.right, .carousel-control.left {
