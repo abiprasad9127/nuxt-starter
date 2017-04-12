@@ -90,7 +90,7 @@
 }
 </style>
  
-<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="30">
 
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
