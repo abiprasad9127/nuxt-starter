@@ -1,5 +1,4 @@
-
-  <template>
+<template>
 <section class="container">
     <img src="https://www.netlify.com/img/global/meta-image.jpg" />
     <h1 class="title">
@@ -16,8 +15,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   </head>
-<body>
-
 
 <style>
 .jumbotron { 
@@ -87,6 +84,13 @@
 
 .item span {
     font-style: normal;
+}
+</style>
+
+<style scoped>
+.title
+{
+  margin: 100px 0;
 }
 </style>
  
@@ -207,12 +211,3 @@ $(document).ready(function(){
 </html>
  </section>  
  </template>
-
-    
- 
-<style scoped>
-.title
-{
-  margin: 100px 0;
-}
-</style>
