@@ -35,7 +35,7 @@
 <div class="container-fluid bg-grey">
   <h2>Our Values</h2>
   <h4><strong>MISSION:</strong> Our mission lorem ipsum..</h4> 
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
 </div>
 
 
