@@ -72,6 +72,7 @@
 }
 </style>
 
+<style>
 .carousel-control.right, .carousel-control.left {
     background-image: none;
     color: #f4511e;
@@ -96,6 +97,7 @@
 .item span {
     font-style: normal;
 }
+</style>
  
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
 
