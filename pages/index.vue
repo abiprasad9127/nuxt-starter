@@ -10,14 +10,15 @@
  <html>
 <body>
 
-<iframe height="300px" width="100%" src="demo_iframe.htm" name="iframe_a"></iframe>
-
-<p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
-
-<p>When the target of a link matches the name of an iframe, the link will open in the iframe.</p>
+<div style="background-color:black;color:white;padding:20px;">
+  <h2>London</h2>
+  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+</div> 
 
 </body>
 </html>
+
 
   </section>
 </template>
