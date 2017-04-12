@@ -226,6 +226,6 @@ $(document).ready(function(){
 <style scoped>
 .title
 {
-  margin: 50px 0;
+  margin: 100px 0;
 }
 </style>
