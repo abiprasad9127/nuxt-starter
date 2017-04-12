@@ -13,6 +13,16 @@
   </head>
 <body>
 
+<template>
+<section class="container">
+    <img src="https://www.netlify.com/img/global/meta-image.jpg" />
+    <h1 class="title">
+      Netlify Assesment
+    </h1>
+    <nuxt-link class="button" to="/about">
+      Hello!
+    </nuxt-link>
+
 <style>
 .jumbotron { 
     background-color: #f4511e; /* Orange */
@@ -87,20 +97,7 @@
 .item span {
     font-style: normal;
 }
-
-<template>
-<section class="container">
-    <img src="https://www.netlify.com/img/global/meta-image.jpg" />
-    <h1 class="title">
-      Netlify Assesment
-    </h1>
-    <nuxt-link class="button" to="/about">
-      Hello!
-    </nuxt-link>
- </section>  
- </template>
  
-
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
     <div class="navbar-header">
@@ -178,6 +175,8 @@
 
 </body>
 </html>
+ </section>  
+ </template>
 
     
  
