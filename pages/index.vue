@@ -1,18 +1,15 @@
-<template>
-  <section class="container">
-    <img src="https://www.netlify.com/img/global/meta-image.jpg" />
-    <h1 class="title">
-      Netlify Assesment
-    </h1>
-    <nuxt-link class="button" to="/about">
-      Hello!
-    </nuxt-link>
-    
-    
-  </head>
-<body>
-
- <style>
+<html lang="en">
+<head>
+  <!-- Theme Made By www.w3schools.com - No Copyright -->
+  <title>Bootstrap Theme Company Page</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
   body {
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
@@ -521,5 +518,3 @@ $(document).ready(function(){
 
 </body>
 </html>
-</section>
-</template>
