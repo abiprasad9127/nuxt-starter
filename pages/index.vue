@@ -7,8 +7,8 @@
     <nuxt-link class="button" to="/about">
       Hello!
     </nuxt-link>
-   
-
+    </section>
+    
 <style scoped>
 .title
 {
