@@ -7,6 +7,14 @@
     <nuxt-link class="button" to="/about">
       Hello!
     </nuxt-link>
+    <html>
+    <body>
+
+      <iframe src="demo_iframe.htm" height="200" width="300"></iframe>
+
+    </body>
+    </html>
+
   </section>
 </template>
 
