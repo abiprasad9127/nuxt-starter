@@ -88,6 +88,7 @@
     font-style: normal;
 }
 
+<template>
 <section class="container">
     <img src="https://www.netlify.com/img/global/meta-image.jpg" />
     <h1 class="title">
@@ -96,7 +97,8 @@
     <nuxt-link class="button" to="/about">
       Hello!
     </nuxt-link>
- </section>   
+ </section>  
+ </template>
  
 
 <nav class="navbar navbar-default navbar-fixed-top">
@@ -177,7 +179,6 @@
 </body>
 </html>
 
-</template>
     
  
 <style scoped>
