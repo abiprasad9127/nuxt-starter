@@ -24,10 +24,7 @@
     background-color: #f4511e; /* Orange */
     color: #ffffff;
 }
-</style>
 
-
-<style>
 .navbar {
     margin-bottom: 0;
     background-color: #f4511e;
@@ -52,15 +49,11 @@
     border-color: transparent;
     color: #fff !important;
 }
-</style>
 
-<style>
 .bg-grey {
     background-color: #f6f6f6;
 }
-</style>
 
-<style>
 .jumbotron {
     background-color: #f4511e;
     color: #fff;
@@ -70,9 +63,7 @@
 .container-fluid {
     padding: 60px 50px;
 }
-</style>
 
-<style>
 .carousel-control.right, .carousel-control.left {
     background-image: none;
     color: #f4511e;
@@ -211,11 +202,6 @@ $(document).ready(function(){
   });
 })
 </script>
-
-</body>
-</html>
-
-
 
 </body>
 </html>
