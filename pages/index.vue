@@ -48,14 +48,16 @@
     color: #fff !important;
 }
 
-.bg-grey {
-    background-color: #f6f6f6;
-}
-
 .jumbotron {
     background-color: #f4511e;
     color: #fff;
-    padding: 100px 25px;
+    padding: 05px 05px;
+}
+
+.jumbotron1 {
+    background-color: #f6f6f6;
+    color: #fff;
+    padding: 05px 05px;
 }
 
 .carousel-control.right, .carousel-control.left {
@@ -108,27 +110,26 @@
         <li><a href="#about">ABOUT</a></li>
         <li><a href="#services">SERVICES</a></li>
         <li><a href="#portfolio">PORTFOLIO</a></li>
-        <li><a href="#pricing">PRICING</a></li>
         <li><a href="#contact">CONTACT</a></li>
       </ul>
     </div>
   </div>
 </nav>
 
-<div class="container-fluid1" id="about">
+<div class="jumbotron1" id="about">
   <h2>About Company Page</h2>
   <h4>Lorem ipsum..</h4> 
   <p>Lorem ipsum..</p>
   <button class="btn btn-default btn-lg">Get in Touch</button>
 </div>
 
-<div class="container-fluid1 bg-grey" id="services">
+<div class="container-fluid1" id="services">
   <h2>Our Values</h2>
   <h4><strong>MISSION:</strong> Our mission lorem ipsum..</h4> 
   <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
 </div>
 
-<div class="jumbotron">
+<div class="jumbotron" id="portfolio">
   <h1>Company</h1> 
   <p>We specialize in blablabla</p> 
 </div>
