@@ -327,7 +327,7 @@ Traditionally the root record points to an IP address, tying a service to an IP 
   <p>We specialize in blablabla</p> 
 </div>
 
-<h2>What our customers say</h2>
+<h2>Hello!</h2>
   <div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -339,13 +339,13 @@ Traditionally the root record points to an IP address, tying a service to an IP 
    <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <h2>I had a great time answering your questions!<br><span>Let us keep in touch!</span></h2>
+        <h3>I had a great time answering your questions!<br><span>Let us keep in touch!</span></h3>
       </div>
       <div class="item">
-        <h2>Mail me:<br><span>abiprasad91@gmail.com</span></h2>
+        <h3>Mail me:<br><span>abiprasad91@gmail.com</span></h3>
       </div>
       <div class="item">
-        <h2>Call me!<br><span>617 987 7276</span></h2>
+        <h3>Call me!<br><span>617 987 7276</span></h3>
       </div>
     </div>
 
