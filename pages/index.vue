@@ -264,7 +264,7 @@ margin-left:20px;
 
 <div class="jumbotron">
   <h3>Answer 7</h3> 
-  <p>SSL and HTTPS help secure the communication between the client and server through the internet from eavsdroppers. Communication through HTTPS and SSL is encrypted between the client and the server. </p> 
+  <p>SSL and HTTPS help secure the communication between the client and server through the internet from eavsdroppers. All browsers have the capability to interact with secured web servers using the SSL protocol. However, the browser and the server need what is called an SSL Certificate to be able to establish a secure connection. SSL Certificates have a key pair: a public and a private key. These keys work together to establish an encrypted connection. The certificate also contains what is called the “subject,” which is the identity of the certificate/website owner.When you visit an HTTPS website, the content between your computer and the internet is exchanged using the additional SSL protocol that encrypt the data exchanged between you and the server to prevent spying and hacking. One of the most important components of online business is creating a trusted environment where potential customers feel confident in making purchases. </p> 
 </div>
 
 <div id="q8">
