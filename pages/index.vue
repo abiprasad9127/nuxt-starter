@@ -96,7 +96,6 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#myPage">Logo</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
@@ -118,8 +117,6 @@
 <div class="fluid1" id="services">
   <h2>Our Values</h2>
   <h4><strong>MISSION:</strong> Our mission lorem ipsum..</h4> 
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
   <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
   <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
 </div>
