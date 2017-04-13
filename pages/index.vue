@@ -152,24 +152,28 @@ margin-left:20px;
 
 <div class="fluid1">
   <h3>Question 1</h3>
-  <p>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"</p> 
+  <h4>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"</h4> 
 </div>
 
 <div class="jumbotron">
-  <h3>Answer 1</h3> 
+  <h3>Answer 1</h3> <br/>
   <p>5 things I would love to do:<br/>
- *Dig through server logs to troubleshoot a customer's website behavior.
- *Analyze thousands of support tickets to spot trends to improve our product
- *Work with the development team to help design a new feature based on feedback from customers
- *Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have
- *Work with prospective customers to explain our service and the pricing model</p> 
+  <ul>
+ <li>Dig through server logs to troubleshoot a customer's website behavior</li>
+ <li>Analyze thousands of support tickets to spot trends to improve our product</li>
+ <li>Work with the development team to help design a new feature based on feedback from customers</li>
+ <li>Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have</li>
+ <li>Work with prospective customers to explain our service and the pricing model</li></ul></p> 
 
-<p>Not as much:</p>
-  *Write and maintain documentation for our software and blog posts for our website.
-   *Create video tutorials to help teach users a specific feature or use case
-   *Respond to Netlify fans on Twitter
-   *Deliver a talk to many people you don't know at a conference or meetup
-   *Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub</p>
+<p>Not as much:<br/>
+<ul>
+  <li>Write and maintain documentation for our software and blog posts for our website</li>
+   <li>Create video tutorials to help teach users a specific feature or use case</li>
+   <li>Respond to Netlify fans on Twitter</li>
+   <li>Deliver a talk to many people you don't know at a conference or meetup</li>
+   <li>Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub</li>
+   </ul>
+   </p>
 </div>
 
 <div id="q2">
