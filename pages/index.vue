@@ -152,7 +152,7 @@ margin-left:20px;
 
 <div class="fluid1">
   <h3>Question 1</h3>
-  <h4>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"<br></h4> 
+  <p>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"</p> 
 </div>
 
 <div class="jumbotron">
