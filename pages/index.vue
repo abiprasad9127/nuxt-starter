@@ -157,7 +157,7 @@ margin-left:20px;
 
 <div class="jumbotron">
   <h3>Answer 1</h3> 
-  <p>5 things I would love to do:</p>
+  <p>5 things I would love to do:<br/>
  *Dig through server logs to troubleshoot a customer's website behavior.
  *Analyze thousands of support tickets to spot trends to improve our product
  *Work with the development team to help design a new feature based on feedback from customers
