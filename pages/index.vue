@@ -168,13 +168,12 @@
 
 <div class="fluid1" id="q5">
   <h3>Question 5</h3>
-  <h4>a</h4> 
+  <h4>Could you give us a suggestion to improve this test or the job posting?</h4> 
 </div>
 
 <div class="jumbotron">
   <h3>Answer 5</h3> 
-  <p>We specialize in blablabla</p> 
-  <p>We specialize in blablabla</p> 
+  <p>I had a great time working on this assesment, and working on netlify. Everything was just done easily and it worked great with time! I can only just suggest to limit this assesment with time, because otherwise I found myself continuously trying to improve the web page and explore more static generators.</p> 
 </div>
 
 <div class="fluid1" id="q6">
@@ -196,7 +195,7 @@
 
 <div class="jumbotron">
   <h3>Answer 7</h3> 
-  <p>SSL and HTTPS help secure the communication between the client and server thrrough the internet from eavsdroppers. Communication through HTTPS and SSL is encrypted between the client and the server. </p> 
+  <p>SSL and HTTPS help secure the communication between the client and server through the internet from eavsdroppers. Communication through HTTPS and SSL is encrypted between the client and the server. </p> 
 </div>
 
 <div class="fluid1" id="q8">
@@ -207,8 +206,7 @@
 <div class="jumbotron">
   <h3>Answer 8</h3> 
   <p>DNS records
-
-When a ping to a host fails, try pinging the host by IP address instead of the name. If it responds then the you will have to check the DNS server to make sure that a Host (A) record exists for the host. If the DNS serves does not have an appropriate Host(A) record it will be unable to resolve the host's name.</p>
+  When a ping to a host fails, try pinging the host by IP address instead of the name. If it responds then the you will have to check the DNS server to make sure that a Host (A) record exists for the host. If the DNS serves does not have an appropriate Host(A) record it will be unable to resolve the host's name.</p>
 </div>
 
 <div class="fluid1" id="q9">
