@@ -1,8 +1,8 @@
 
 <template>   
 <section class="container">
+<img src="https://www.netlify.com/img/global/meta-image.jpg" />
 <div class="first">
-    <img src="https://www.netlify.com/img/global/meta-image.jpg" />
     <h1 class="title">
       Netlify Assesment
     </h1>
