@@ -1,5 +1,6 @@
 <template>
   <section class="container">
+  <img src="https://www.netlify.com/img/global/meta-image.jpg" />
     <h1 class="title">
       This page is loaded from the {{ name }}
     </h1>
