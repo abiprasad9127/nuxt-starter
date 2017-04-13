@@ -100,10 +100,16 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#about">ABOUT</a></li>
-        <li><a href="#services">SERVICES</a></li>
-        <li><a href="#portfolio">PORTFOLIO</a></li>
-        <li><a href="#contact">CONTACT</a></li>
+        <li><a href="#q1">QUESTION 1</a></li>
+        <li><a href="#q2">QUESTION 2</a></li>
+        <li><a href="#q3">QUESTION 3</a></li>
+        <li><a href="#q4">QUESTION 4</a></li>
+        <li><a href="#q5">QUESTION 5</a></li>
+        <li><a href="#q6">QUESTION 6</a></li>
+        <li><a href="#q7">QUESTION 7</a></li>
+        <li><a href="#q8">QUESTION 8</a></li>
+        <li><a href="#q9">QUESTION 9</a></li>
+        <li><a href="#q10">QUESTION 10</a></li>
       </ul>
     </div>
   </div>
