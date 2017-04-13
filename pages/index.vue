@@ -115,14 +115,14 @@
   </div>
 </nav>
 
-<div class="container-fluid" id="about">
+<div class="container-fluid1" id="about">
   <h2>About Company Page</h2>
   <h4>Lorem ipsum..</h4> 
   <p>Lorem ipsum..</p>
   <button class="btn btn-default btn-lg">Get in Touch</button>
 </div>
 
-<div class="container-fluid bg-grey" id="services">
+<div class="container-fluid1 bg-grey" id="services">
   <h2>Our Values</h2>
   <h4><strong>MISSION:</strong> Our mission lorem ipsum..</h4> 
   <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
