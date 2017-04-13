@@ -23,7 +23,7 @@
     color: #ffffff;
 }
 
-.img {
+ img {
   width: 30px;
   height: 30px;
   opacity:0.5;
