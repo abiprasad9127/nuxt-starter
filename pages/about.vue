@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-    <img src="https://www.sdxcentral.com/wp-content/uploads/2016/12/machine-learning-hard-apply-networking-david-meyer-brocade-490x245.jpg" />
+    <img src="https://raw.githubusercontent.com/3lvis/Networking/master/Images/cover-v3.png" />
     <h1 class="title">
       This page is loaded from the {{ name }}
     </h1>
