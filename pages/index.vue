@@ -153,7 +153,7 @@ margin-left:20px;
 
 <div class="fluid1">
   <h3>Question 1</h3>
-  <h4>"Rank your 5 favorite, and least favorite, activities from this list:" </h4><a href="https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"></a> 
+  <h4>"Rank your 5 favorite, and least favorite, activities from this list:" </h4><a href="https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6">here</a> 
 </div>
 
 <div class="jumbotron">
@@ -304,7 +304,7 @@ Traditionally the root record points to an IP address, tying a service to an IP 
   <li>3) Disable your internet security programs (i.e. Antivirus, Firewalls, etc.). This i required only for the test.</li>
   <li>4) Disable all chrome extensions and pop up blockers.</li>
   <li>5) Flush you computer's DNS. Your operating system regularly caches the DNS lookup of a Domain name linking it to a particular IP. When the IP changes, your Operating System looks up for the cached information instead of looking up the new DNS seting for the Domain name. Please follow he steps given here to flush your DNS: https://documentation.cpanel.net/display/CKB/How+To+Clear+Your+DNS+Cache</li>
-  <li>6) Perform a traceroute on the website. Use this link:<a href="https://support.cloudflare.com/hc/en-us/articles/200169336-How-do-I-run-a-traceroute-"></a> to conduct an effective traceroute
+  <li>6) Perform a traceroute on the website. Use this link:<a href="https://support.cloudflare.com/hc/en-us/articles/200169336-How-do-I-run-a-traceroute-">here</a> to conduct an effective traceroute
   <li>If the problem still performs, please send us your traceroute samples and we will resolve it at the earliest.</li>
   </ul>
   </p>
