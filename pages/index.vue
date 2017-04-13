@@ -30,7 +30,7 @@
   height: 200px;
   opacity:0.5;
   float: left;
-  margin: 20px 20px;
+  margin: 30px 30px;
   padding:30px 30px;
 }
 
@@ -127,7 +127,14 @@ float:left;
   </div>
 </nav>
 
-<div id="q1"></div>
+<div id="q1">
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
+<div></div>
 <div class="fluid1">
   <h3>Question 1</h3>
   <h4>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"<br></h4> 
