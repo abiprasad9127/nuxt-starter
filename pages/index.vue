@@ -141,10 +141,11 @@
         <h4>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"<br><span>x</span></h4>
       </div>
       <div class="item">
-        <h4>"One word... WOW!!"<br><span>John Doe, Salesman, Rep Inc</span></h4>
+        <h4>"What is your favorite thing about providing technical support?"<br><span>There is always a huge learning curve with technical support because it helps me understand the real time issues of the product and keeps me updated about all the new features and its issues. That way it helps me understand and analayse better about the product as a whole. 
+</span></h4>
       </div>
       <div class="item">
-        <h4>"Could I... BE any more happy with this company?"<br><span>Chandler Bing, Actor, FriendsAlot</span></h4>
+        <h4>"What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)"<br><span>Chandler Bing, Actor, FriendsAlot</span></h4>
       </div>
     </div>
 
