@@ -7,7 +7,6 @@
     </h1>
 
  <head>
-  <title>Bootstrap Theme Company Page</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -114,7 +113,8 @@
   </div>
 </nav>
 
-<div class="fluid1" id="q1">
+<div id="q1"></div>
+<div class="fluid1">
   <h3>Question 1</h3>
   <h4>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"<br></h4> 
 </div>
@@ -126,7 +126,7 @@
  *Analyze thousands of support tickets to spot trends to improve our product
  *Work with the development team to help design a new feature based on feedback from customers
  *Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have
-*Work with prospective customers to explain our service and the pricing model</p> 
+ *Work with prospective customers to explain our service and the pricing model</p> 
 
 <p>Not as much:</p>
   *Write and maintain documentation for our software and blog posts for our website.
