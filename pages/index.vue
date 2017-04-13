@@ -85,6 +85,7 @@ margin-left:20px;
 .fluid1 {
     background-color: #f6f6f6;
     color: #000000;
+    text-align: center;
 }
 
 .carousel-control.right, .carousel-control.left {
