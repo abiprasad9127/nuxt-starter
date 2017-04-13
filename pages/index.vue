@@ -333,17 +333,30 @@ margin-left:20px;
       <li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
 
-    <!-- Wrapper for slides -->
+   <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <h4>Hello! I had a great time answering your Questions!</span></h4>
+        <h4>"I had a great time answering your questions!"<br><span>Let us keep in touch!</span></h4>
       </div>
       <div class="item">
-        <h4>We should keep in Touch!</span></h4>
+        <h4>"Mail me:"<br><span>abiprasad91@gmail.com</span></h4>
       </div>
       <div class="item">
-        <h4>Mail me: abiprasad91@gmail.com<br><span> Call me: 617 987 7276 </span></h4>
+        <h4>"Call me!"<br><span>617 987 7276</span></h4>
       </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
       // Store hash
       var hash = this.hash;
 
