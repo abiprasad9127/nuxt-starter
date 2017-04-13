@@ -129,11 +129,11 @@
 *Work with prospective customers to explain our service and the pricing model</p> 
 
 <p>Not as much:</p>
-<p>*Write and maintain documentation for our software and blog posts for our website.</p>
-<p>*Create video tutorials to help teach users a specific feature or use case</p>
-<p>*Respond to Netlify fans on Twitter</p>
-<p>*Deliver a talk to many people you don't know at a conference or meetup</p>
-<p>*Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub</p> 
+<p>*Write and maintain documentation for our software and blog posts for our website.
+   *Create video tutorials to help teach users a specific feature or use case
+   *Respond to Netlify fans on Twitter
+   *Deliver a talk to many people you don't know at a conference or meetup
+   *Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub</p>
 </div>
 
 <div class="fluid1" id="q2">
