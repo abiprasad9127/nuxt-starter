@@ -1,11 +1,5 @@
 
-<template>
-<section class="container">
-    <img src="https://www.netlify.com/img/global/meta-image.jpg" />
-    <h1 class="title">
-      Netlify Assesment
-    </h1>
-   
+<template>   
  <head>
   <title>Bootstrap Theme Company Page</title>
   <meta charset="utf-8">
@@ -109,6 +103,12 @@
   </div>
 </nav>
 
+<section class="container">
+    <img src="https://www.netlify.com/img/global/meta-image.jpg" />
+    <h1 class="title">
+      Netlify Assesment
+    </h1>
+
 <div class="jumbotron1" id="about">
   <h2>About Company Page</h2>
   <h4>Lorem ipsum..</h4> 
@@ -203,7 +203,7 @@ $(document).ready(function(){
 })
 </script>
 
+</section>
 </body>
-</html>
- </section>  
+</html>  
  </template>
