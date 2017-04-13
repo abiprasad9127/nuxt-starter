@@ -24,8 +24,8 @@
 }
 
  img {
-  width: 70px;
-  height: 70px;
+  width: 200px;
+  height: 200px;
   opacity:0.5;
 }
 
