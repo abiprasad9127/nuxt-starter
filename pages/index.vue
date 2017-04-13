@@ -31,7 +31,8 @@
   opacity:0.5;
   float: left;
   margin: 30px 30px;
-  padding:40px 40px;
+  margin-bottom: 30px;
+  margin-right: 30px;
 }
 
 .first{
