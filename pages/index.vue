@@ -109,12 +109,6 @@
   </div>
 </nav>
 
-<div class="jumbotron1" id="about">
-  <h2>About Company Page</h2>
-  <h4>Lorem ipsum..</h4> 
-  <p>Lorem ipsum..</p>
-</div>
-
 <div class="fluid1" id="services">
   <h2>Our Values</h2>
   <h4><strong>MISSION:</strong> Our mission lorem ipsum..</h4> 
