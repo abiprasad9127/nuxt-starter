@@ -184,14 +184,14 @@
 </div>
 
 <div class="jumbotron">
-  <h3>Answer 10</h3> 
+  <h3>Answer 6</h3> 
   <p>We specialize in blablabla</p> 
   <p>We specialize in blablabla</p> 
 </div>
 
 <div class="fluid1" id="q7">
   <h3>Question 7</h3>
-  <h2>Why do you think SSL/HTTPS is important?</h2> 
+  <h4>Why do you think SSL/HTTPS is important?</h4> 
 </div>
 
 <div class="jumbotron">
@@ -201,7 +201,7 @@
 
 <div class="fluid1" id="q8">
   <h3>Question 8</h3>
-  <h2>Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users</h2> 
+  <h4>Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users</h4> 
 </div>
 
 <div class="jumbotron">
