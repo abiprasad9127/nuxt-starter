@@ -35,7 +35,7 @@ img {
     float: left;
     margin-bottom: 70px;
     margin-right: 30px;
-    margin-top:30px;
+    margin-top:50px;
 } 
 
 img:hover {
