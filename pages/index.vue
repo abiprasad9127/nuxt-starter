@@ -147,27 +147,23 @@
 </div>
 
 <div class="fluid1" id="q3">
-  <h3>Answer 5</h3>
-  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+  <h3>Answer 3</h3> 
+  <p>What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)</p>
 </div>
 
 <div class="jumbotron">
-  <h3>Answer 6</h3> 
-  <p>We specialize in blablabla</p> 
+  <h3>Answer 3</h3> 
   <p>We specialize in blablabla</p> 
 </div>
 
 <div class="fluid1" id="q4">
-  <h3>Question 4</h3>
-  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+  <h3>Question 4</h3> 
+  <p>Tell about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.</p>
 </div>
 
 <div class="jumbotron">
-  <h3>Answer 8</h3> 
-  <p>We specialize in blablabla</p> 
-  <p>We specialize in blablabla</p> 
+  <h3>Answer 4</h3> 
+  <p>It was great using the staticgen I was asked to refer. I started with using jekyll, but later I wasn't very comfortable with it because of it was all in Ruby and I decided to go ahead with nuxt ( hence, the extended period). I am new to web designing and github. And I must admit, it was a lot of fun seeing my continuious progression getting deployed on Netlify. I was also guided by w3schools to through the development of the web page.</p> 
 </div>
 
 <div class="fluid1" id="q5">
