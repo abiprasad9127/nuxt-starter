@@ -178,14 +178,12 @@
 
 <div class="fluid1" id="q6">
   <h3>Question 6</h3>
-  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+  <h4>Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done.</h4> 
 </div>
 
 <div class="jumbotron">
   <h3>Answer 6</h3> 
-  <p>We specialize in blablabla</p> 
-  <p>We specialize in blablabla</p> 
+  <p>W3school helped me a lot through this assesment, because it gives a step by step guide for beginners in web designing (like me!). Through their guided documents and snippets I was not only able to understand and reproduce the framework for the web page but also customize it based on my liking.</p> 
 </div>
 
 <div class="fluid1" id="q7">
