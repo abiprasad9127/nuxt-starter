@@ -30,6 +30,8 @@
   height: 200px;
   opacity:0.5;
   float: left;
+  margin: 20px 20px;
+  padding:30px 30px;
 }
 
 .first{
