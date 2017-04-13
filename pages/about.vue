@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-    <img src="https://www.netlify.com/img/global/meta-image.jpg" />
+    <img src="https://www.sdxcentral.com/wp-content/uploads/2016/12/machine-learning-hard-apply-networking-david-meyer-brocade-490x245.jpg" />
     <h1 class="title">
       This page is loaded from the {{ name }}
     </h1>
