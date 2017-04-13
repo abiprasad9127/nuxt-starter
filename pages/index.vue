@@ -130,11 +130,8 @@ float:left;
 <div id="q1">
 <br/>
 <br/>
-<br/>
-<br/>
 </div>
 
-<div></div>
 <div class="fluid1">
   <h3>Question 1</h3>
   <h4>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"<br></h4> 
@@ -160,8 +157,6 @@ float:left;
 <div id="q2">
 <br/>
 <br/>
-<br/>
-<br/>
 </div>
 
 <div class="fluid1">
@@ -175,8 +170,6 @@ float:left;
 </div>
 
 <div id="q3">
-<br/>
-<br/>
 <br/>
 <br/>
 </div>
@@ -194,8 +187,6 @@ float:left;
 <div id="q4">
 <br/>
 <br/>
-<br/>
-<br/>
 </div>
 
 <div class="fluid1">
@@ -209,8 +200,6 @@ float:left;
 </div>
 
 <div id="q5">
-<br/>
-<br/>
 <br/>
 <br/>
 </div>
@@ -228,8 +217,6 @@ float:left;
 <div id="q6">
 <br/>
 <br/>
-<br/>
-<br/>
 </div>
 
 <div class="fluid1">
@@ -245,8 +232,6 @@ float:left;
 <div id="q7">
 <br/>
 <br/>
-<br/>
-<br/>
 </div>
 
 <div class="fluid1">
@@ -260,8 +245,6 @@ float:left;
 </div>
 
 <div id="q8">
-<br/>
-<br/>
 <br/>
 <br/>
 </div>
@@ -280,8 +263,6 @@ float:left;
 <div id="q9">
 <br/>
 <br/>
-<br/>
-<br/>
 </div>
 
 <div class="fluid1">
@@ -297,8 +278,6 @@ float:left;
 </div>
 
 <div id="q10">
-<br/>
-<br/>
 <br/>
 <br/>
 </div>
