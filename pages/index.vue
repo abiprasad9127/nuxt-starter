@@ -39,6 +39,11 @@ padding: 50px 50px;
 margin: 50px 50px;
 }
 
+.last { 
+    background-color: #f4511e; /* Orange */
+    color: #ffffff;
+}
+
 .title {
 float:left;
 margin-left:20px;
