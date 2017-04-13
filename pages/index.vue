@@ -154,6 +154,12 @@
       <div class="item">
         <h4>"What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)"<br><span>Chandler Bing, Actor, FriendsAlot</span></h4>
       </div>
+      <div class="item">
+        <h4>"Why do you think SSL/HTTPS is important?"<br><span>SSL and HTTPS help secure the communication between the client and server thrrough the internet from eavsdroppers. Communication through HTTPS and SSL is encrypted between the client and the server. </span></h4>
+      </div>
+       <div class="item">
+        <h4>"Tell about how you made your site and why you chose the tools you did. Briefly explain a challenge you experienced in setting up this site and how you solved it."<br><span>It was great using the staticgen I was asked to refer. I started with using jekyll, but later I wasn't very comfortable with it because of it was all in Ruby and I decided to go ahead with nuxt ( hence, the extended period). I am new to web designing and github. And I must admit, it was a lot of fun seeing my continuious progression getting deployed on Netlify. I was also guided by w3schools to through the development of the web page.</span></h4>
+      </div>
     </div>
 
     <!-- Left and right controls -->
