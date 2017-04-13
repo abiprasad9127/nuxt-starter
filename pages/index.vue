@@ -114,17 +114,60 @@
   </div>
 </nav>
 
-<div class="fluid1" id="services">
-  <h2>Our Values</h2>
-  <h4><strong>MISSION:</strong> Our mission lorem ipsum..</h4> 
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+<div class="fluid1" id="q1">
+  <h3>Answer 1</h3>
+  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
   <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
 </div>
 
-<div class="jumbotron" id="portfolio">
-  <h1>Company</h1> 
+<div class="jumbotron" id="q2">
+  <h3>Answer 2</h3> 
   <p>We specialize in blablabla</p> 
   <p>We specialize in blablabla</p> 
+</div>
+<div class="fluid1" id="q3">
+  <h3>Answer 3</h3>
+  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+</div>
+
+<div class="jumbotron" id="q4">
+  <h3>Answer 4</h3> 
+  <p>We specialize in blablabla</p> 
+  <p>We specialize in blablabla</p> 
+</div>
+<div class="fluid1" id="q5">
+  <h3>Answer 5</h3>
+  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+</div>
+
+<div class="jumbotron" id="q6">
+  <h3>Answer 6</h3> 
+  <p>We specialize in blablabla</p> 
+  <p>We specialize in blablabla</p> 
+</div>
+
+<div class="fluid1" id="q7">
+  <h3>Answer 7</h3>
+  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+</div>
+
+<div class="jumbotron" id="q8">
+  <h3>Answer 8</h3> 
+  <p>We specialize in blablabla</p> 
+  <p>We specialize in blablabla</p> 
+</div>
+
+<div class="fluid1" id="q9">
+  <h3>Answer 9</h3>
+  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+</div>
+
+<div class="jumbotron" id="q10">
+  <h3>Answer 10</h3> 
   <p>We specialize in blablabla</p> 
   <p>We specialize in blablabla</p> 
 </div>
