@@ -1,10 +1,12 @@
 
 <template>   
 <section class="container">
+<div class="first">
     <img src="https://www.netlify.com/img/global/meta-image.jpg" />
     <h1 class="title">
       Netlify Assesment
     </h1>
+</div>
 
  <head>
   <title>Bootstrap Theme Company Page</title>
@@ -28,6 +30,11 @@
   height: 200px;
   opacity:0.5;
   float: left;
+}
+
+.first{
+padding: 50px 50px;
+margin: 50px 50px;
 }
 
 .title {
