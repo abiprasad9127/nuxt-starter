@@ -108,7 +108,6 @@ margin-left:20px;
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="10">
 
 <nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container1">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
@@ -116,7 +115,6 @@ margin-left:20px;
         <span class="icon-bar"></span>                        
       </button>
     </div>
-    <ul>Abinaya's Profile</ul>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#q1">Question1</a></li>
@@ -130,7 +128,6 @@ margin-left:20px;
         <li><a href="#q9">Question9</a></li>
         <li><a href="#q10">Question10</a></li>
       </ul>
-    </div>
   </div>
 </nav>
 
