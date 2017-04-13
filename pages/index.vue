@@ -148,7 +148,7 @@
 
 <div class="fluid1" id="q3">
   <h3>Question 3<br></h3> 
-  <p>What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)</p>
+  <h3>What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)<br></h3>
 </div>
 
 <div class="jumbotron">
@@ -169,7 +169,6 @@
 <div class="fluid1" id="q5">
   <h3>Question 5</h3>
   <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
 </div>
 
 <div class="jumbotron">
