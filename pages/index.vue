@@ -58,10 +58,6 @@
     padding: 100px 25px;
 }
 
-.container-fluid {
-    padding:05px 05px;
-}
-
 .carousel-control.right, .carousel-control.left {
     background-image: none;
     color: #f4511e;
