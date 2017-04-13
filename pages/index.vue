@@ -67,7 +67,7 @@
 }
 
 .item h4 {
-    font-size: 19px;
+    font-size: 15px;
     line-height: 1.375em;
     font-weight: 400;
     font-style: italic;
@@ -86,7 +86,7 @@
 }
 </style>
 
-<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="30">
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="10">
 
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container1">
@@ -142,9 +142,8 @@
 </div>
 
 <div class="jumbotron">
-  <h3>Answer 4</h3> 
-  <p>We specialize in blablabla</p> 
-  <p>We specialize in blablabla</p> 
+  <h3>Answer 2</h3> 
+  <p>There is always a huge learning curve with technical support because it helps me understand the real time issues of the product and keeps me updated about all the new features and its issues. That way it helps me understand and analayse better about the product as a whole.</p>
 </div>
 
 <div class="fluid1" id="q3">
