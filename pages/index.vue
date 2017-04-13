@@ -48,7 +48,7 @@
     color: #fff !important;
 }
 
-.jumbotron1 {
+.fluid1 {
     background-color: #f6f6f6;
     color: #fff;
 }
