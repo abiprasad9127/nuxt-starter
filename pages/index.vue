@@ -1,12 +1,10 @@
 
 <template>   
 <section class="container">
-<div>
     <img src="https://www.netlify.com/img/global/meta-image.jpg" />
     <h1 class="title">
       Netlify Assesment
     </h1>
-</div>
 
  <head>
   <title>Bootstrap Theme Company Page</title>
