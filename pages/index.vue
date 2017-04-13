@@ -279,8 +279,11 @@ margin-left:20px;
 
 <div class="jumbotron">
   <h3>Answer 8</h3> 
-  <p>DNS records
-  When a ping to a host fails, try pinging the host by IP address instead of the name. If it responds then the you will have to check the DNS server to make sure that a Host (A) record exists for the host. If the DNS serves does not have an appropriate Host(A) record it will be unable to resolve the host's name.</p>
+  <p>DNS records<br/>
+ <p>Failure To Properly Secure Resource Records
+If you use a BIND-style primary master to store a zone, you shouldn’t allow dynamic updates. Windows can’t secure updates to a text-based zone file. Any machine can assert itself as an existing host and overwrite the A record with a new IP address. This essentially allows a machine to hijack the DNS records of another machine.</p>
+  <p>Another major challenge with the DNS is its inflexibility.
+Traditionally the root record points to an IP address, tying a service to an IP address is extremely limiting. Let us assume a new blogging platoform, WordRise starts up. It allows users to use custom domains that points users to its infrastructure. Exx.com signs up and WordRise.com give it an IP address. As more customers sign up the supply of IP address is limited. When Exx.com starts using too many of WordRise.com's resources ( maybe because they are being attacked or featured) the other customers of WordRise receive poor performance. Hence the suolution is CNAME, CNAME is an alias which allows one domain to point to another domain. When Exx.com starts using too many resources WordRise can update its CNAME and isolate EXX.com from oher customers.</p>
 </div>
 
 <div id="q9">
