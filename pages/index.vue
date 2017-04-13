@@ -116,7 +116,7 @@
 
 <div class="fluid1" id="q1">
   <h3>Question 1</h3>
-  <h2>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"<br></h2> 
+  <h4>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"<br></h4> 
 </div>
 
 <div class="jumbotron">
