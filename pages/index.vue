@@ -67,11 +67,11 @@
 }
 
 .item h4 {
-    font-size: 10px;
+    font-size: 19px;
     line-height: 1.375em;
     font-weight: 400;
     font-style: italic;
-    margin: 70px 0;
+    margin: 40px 0;
 }
 
 .item span {
