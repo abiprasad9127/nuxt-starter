@@ -48,16 +48,9 @@
     color: #fff !important;
 }
 
-.jumbotron {
-    background-color: #f4511e;
-    color: #fff;
-    padding: 05px 05px;
-}
-
 .jumbotron1 {
     background-color: #f6f6f6;
     color: #fff;
-    padding: 05px 05px;
 }
 
 .carousel-control.right, .carousel-control.left {
@@ -120,17 +113,22 @@
   <h2>About Company Page</h2>
   <h4>Lorem ipsum..</h4> 
   <p>Lorem ipsum..</p>
-  <button class="btn btn-default btn-lg">Get in Touch</button>
 </div>
 
-<div class="container-fluid1" id="services">
+<div class="fluid1" id="services">
   <h2>Our Values</h2>
   <h4><strong>MISSION:</strong> Our mission lorem ipsum..</h4> 
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
   <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
 </div>
 
 <div class="jumbotron" id="portfolio">
   <h1>Company</h1> 
+  <p>We specialize in blablabla</p> 
+  <p>We specialize in blablabla</p> 
+  <p>We specialize in blablabla</p> 
   <p>We specialize in blablabla</p> 
 </div>
 
