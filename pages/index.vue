@@ -87,13 +87,6 @@
 }
 </style>
 
-<style scoped>
-.title
-{
-  margin: 70px 0;
-}
-</style>
-
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="10">
 
 <nav class="navbar navbar-default navbar-fixed-top">
