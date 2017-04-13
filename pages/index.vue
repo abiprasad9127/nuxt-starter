@@ -290,14 +290,21 @@ margin-left:20px;
 
 <div class="fluid1">
   <h3>Question 9</h3>
-  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+  <h4>A customer writes in saying their “site won’t build”.  Compose your best short (2-paragraph) customer-facing answer without any additional data, that could be useful in the generic case but would also lead to a customer providing a more actionable response.</h4> 
 </div>
 
 <div class="jumbotron">
   <h3>Answer 9</h3> 
-  <p>We specialize in blablabla</p> 
-  <p>We specialize in blablabla</p> 
+  <p>Oops! We apologize for the inconvenience. Please try the following troubleshooting tools:</br>
+  <li>1) Connect to Netlify through a different browser, such as Google Chrome or Safari.</li>
+  <li>2) Please clear the browser's cache. Sometimes changes to a website wont be seen autimatically, since the web browser is accessing a previously cached version of the website.</li>
+  <li>3) Disable your internet security programs (i.e. Antivirus, Firewalls, etc.). This i required only for the test.</li>
+  <li>4) Disable all chrome extensions and pop up blockers.</li>
+  <li>5) Flush you computer's DNS. Your operating system regularly caches the DNS lookup of a Domain name linking it to a particular IP. When the IP changes, your Operating System looks up for the cached information instead of looking up the new DNS seting for the Domain name. Please follow he steps given here to flush your DNS: https://documentation.cpanel.net/display/CKB/How+To+Clear+Your+DNS+Cache</li>
+  <li>6) Perform a traceroute on the website. Use this link: https://support.cloudflare.com/hc/en-us/articles/200169336-How-do-I-run-a-traceroute- to conduct an effective traceroute.</li>
+  <li>If the problem still performs, please send us your traceroute samples and we will resolve it at the earliest.</li>
+  </ul>
+  </p>
 </div>
 
 <div id="q10">
