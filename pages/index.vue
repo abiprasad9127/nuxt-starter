@@ -204,7 +204,7 @@ margin-left:20px;
 
 <div class="jumbotron">
   <h3>Answer 3</h3> 
-  <p>We specialize in blablabla</p> 
+  <p>I was extrmemly pleased with the service, the continuous and automated deployment of my wesbite made it easier for me to focus on my front end and not spend much time with the deployment! I didn't have to worry about the specifics of my deployment which worked great for me.</p> 
 </div>
 
 <div id="q4">
