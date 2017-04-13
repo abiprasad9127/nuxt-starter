@@ -20,7 +20,6 @@ export default {
 {
   margin: 0;
   width: 100%;
-  padding: 0px 0;
   text-align: center;
 }
 
