@@ -111,6 +111,7 @@ margin-left:20px;
         <span class="icon-bar"></span>                        
       </button>
     </div>
+    <p><strong>Abinaya's Profile</strong></p>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#q1">Question1</a></li>
@@ -129,8 +130,6 @@ margin-left:20px;
 </nav>
 
 <div id="q1">
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
