@@ -50,7 +50,7 @@
 
 .fluid1 {
     background-color: #f6f6f6;
-    color: #fff;
+    color: #000000;
 }
 
 .carousel-control.right, .carousel-control.left {
