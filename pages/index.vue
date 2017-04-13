@@ -138,7 +138,7 @@
 
 <div class="fluid1" id="q2">
   <h3>Question 2</h3>
-  <h2>"What is your favorite thing about providing technical support?"<br></h2> 
+  <h4>"What is your favorite thing about providing technical support?"<br></h4> 
 </div>
 
 <div class="jumbotron">
@@ -148,7 +148,7 @@
 
 <div class="fluid1" id="q3">
   <h3>Question 3<br></h3> 
-  <h3>What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)<br></h3>
+  <h4>What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)<br></h4>
 </div>
 
 <div class="jumbotron">
@@ -158,7 +158,7 @@
 
 <div class="fluid1" id="q4">
   <h3>Question 4</h3> 
-  <p>Tell about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.</p>
+  <h4>Tell about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.<br></h4>
 </div>
 
 <div class="jumbotron">
@@ -168,7 +168,7 @@
 
 <div class="fluid1" id="q5">
   <h3>Question 5</h3>
-  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
+  <h4>a</h4> 
 </div>
 
 <div class="jumbotron">
