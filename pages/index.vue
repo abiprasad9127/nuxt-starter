@@ -138,7 +138,19 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <h4>"This company is the best. I am so happy with the result!"<br><span>Michael Roe, Vice President, Comment Box</span></h4>
+        <h4>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"<br><span>5 things I would love to do:
+*Dig through server logs to troubleshoot a customer's website behavior. 
+*Analyze thousands of support tickets to spot trends to improve our product
+*Work with the development team to help design a new feature based on feedback from customers
+*Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have
+*Work with prospective customers to explain our service and the pricing model 
+
+Not as much:
+*Write and maintain documentation for our software and blog posts for our website.
+*Create video tutorials to help teach users a specific feature or use case
+*Respond to Netlify fans on Twitter
+*Deliver a talk to many people you don't know at a conference or meetup
+*Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub</span></h4>
       </div>
       <div class="item">
         <h4>"One word... WOW!!"<br><span>John Doe, Salesman, Rep Inc</span></h4>
