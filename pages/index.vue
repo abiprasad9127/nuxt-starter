@@ -5,7 +5,6 @@
     <h1 class="title">
       Netlify Assesment
     </h1>
-</section>
 
  <head>
   <title>Bootstrap Theme Company Page</title>
@@ -207,4 +206,5 @@ $(document).ready(function(){
 
 </body>
 </html>  
+ </section>
  </template>
