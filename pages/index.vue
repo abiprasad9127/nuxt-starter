@@ -147,7 +147,7 @@
 </div>
 
 <div class="fluid1" id="q3">
-  <h3>Answer 3</h3> 
+  <h3>Question 3<br></h3> 
   <p>What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)</p>
 </div>
 
@@ -173,7 +173,7 @@
 </div>
 
 <div class="jumbotron">
-  <h3>Answer 10</h3> 
+  <h3>Answer 5</h3> 
   <p>We specialize in blablabla</p> 
   <p>We specialize in blablabla</p> 
 </div>
