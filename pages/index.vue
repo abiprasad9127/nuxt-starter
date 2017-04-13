@@ -30,8 +30,7 @@
   height: 300px;
   opacity:0.5;
   float: left;
-  margin: 30px 30px;
-  margin-bottom: 30px;
+  margin-bottom: 70px;
   margin-right: 30px;
 }
 
@@ -42,6 +41,7 @@ margin: 50px 50px;
 
 .title {
 float:left;
+margin-left:20px;
 }
 
 .navbar {
