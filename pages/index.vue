@@ -121,7 +121,19 @@
 
 <div class="jumbotron">
   <h3>Answer 1</h3> 
-  <p>We specialize in blablabla</p> 
+  <p>5 things I would love to do:</p>
+<p>*Dig through server logs to troubleshoot a customer's website behavior.</p> 
+<p>*Analyze thousands of support tickets to spot trends to improve our product</p>
+<p>*Work with the development team to help design a new feature based on feedback from customers</p>
+<p>*Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have</p>
+<p>*Work with prospective customers to explain our service and the pricing model</p> 
+
+<p>Not as much:</p>
+<p>*Write and maintain documentation for our software and blog posts for our website.</p>
+<p>*Create video tutorials to help teach users a specific feature or use case</p>
+<p>*Respond to Netlify fans on Twitter</p>
+<p>*Deliver a talk to many people you don't know at a conference or meetup</p>
+<p>*Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub</p> 
 </div>
 
 <div class="fluid1" id="q2">
