@@ -67,7 +67,7 @@
 }
 
 .item h4 {
-    font-size: 19px;
+    font-size: 10px;
     line-height: 1.375em;
     font-weight: 400;
     font-style: italic;
