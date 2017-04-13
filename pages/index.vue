@@ -129,7 +129,7 @@
 *Work with prospective customers to explain our service and the pricing model</p> 
 
 <p>Not as much:</p>
-<p>*Write and maintain documentation for our software and blog posts for our website.
+  *Write and maintain documentation for our software and blog posts for our website.
    *Create video tutorials to help teach users a specific feature or use case
    *Respond to Netlify fans on Twitter
    *Deliver a talk to many people you don't know at a conference or meetup
