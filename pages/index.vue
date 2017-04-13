@@ -115,58 +115,117 @@
 </nav>
 
 <div class="fluid1" id="q1">
-  <h3>Answer 1</h3>
-  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+  <h3>Question 1</h3>
+  <h2>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"<br></h2> 
 </div>
 
-<div class="jumbotron" id="q2">
-  <h3>Answer 2</h3> 
+<div class="jumbotron">
+  <h3>Answer 1</h3> 
   <p>We specialize in blablabla</p> 
-  <p>We specialize in blablabla</p> 
-</div>
-<div class="fluid1" id="q3">
-  <h3>Answer 3</h3>
-  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
 </div>
 
-<div class="jumbotron" id="q4">
+<div class="fluid1" id="q2">
+  <h3>Question 2</h3>
+  <h2>"What is your favorite thing about providing technical support?"<br></h2> 
+</div>
+
+<div class="jumbotron">
   <h3>Answer 4</h3> 
   <p>We specialize in blablabla</p> 
   <p>We specialize in blablabla</p> 
 </div>
-<div class="fluid1" id="q5">
+
+<div class="fluid1" id="q3">
   <h3>Answer 5</h3>
   <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
   <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
 </div>
 
-<div class="jumbotron" id="q6">
+<div class="jumbotron">
   <h3>Answer 6</h3> 
   <p>We specialize in blablabla</p> 
   <p>We specialize in blablabla</p> 
 </div>
 
-<div class="fluid1" id="q7">
-  <h3>Answer 7</h3>
+<div class="fluid1" id="q4">
+  <h3>Question 4</h3>
   <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
   <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
 </div>
 
-<div class="jumbotron" id="q8">
+<div class="jumbotron">
+  <h3>Answer 8</h3> 
+  <p>We specialize in blablabla</p> 
+  <p>We specialize in blablabla</p> 
+</div>
+
+<div class="fluid1" id="q5">
+  <h3>Question 5</h3>
+  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+</div>
+
+<div class="jumbotron">
+  <h3>Answer 10</h3> 
+  <p>We specialize in blablabla</p> 
+  <p>We specialize in blablabla</p> 
+</div>
+
+<div class="fluid1" id="q6">
+  <h3>Question 6</h3>
+  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+</div>
+
+<div class="jumbotron">
+  <h3>Answer 10</h3> 
+  <p>We specialize in blablabla</p> 
+  <p>We specialize in blablabla</p> 
+</div>
+
+<div class="fluid1" id="q7">
+  <h3>Question 7</h3>
+  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+</div>
+
+<div class="jumbotron">
+  <h3>Answer 7</h3> 
+  <p>We specialize in blablabla</p> 
+  <p>We specialize in blablabla</p> 
+</div>
+
+<div class="fluid1" id="q8">
+  <h3>Question 8</h3>
+  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+</div>
+
+<div class="jumbotron">
   <h3>Answer 8</h3> 
   <p>We specialize in blablabla</p> 
   <p>We specialize in blablabla</p> 
 </div>
 
 <div class="fluid1" id="q9">
-  <h3>Answer 9</h3>
+  <h3>Question 9</h3>
   <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
   <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
 </div>
 
-<div class="jumbotron" id="q10">
+<div class="jumbotron">
+  <h3>Answer 9</h3> 
+  <p>We specialize in blablabla</p> 
+  <p>We specialize in blablabla</p> 
+</div>
+
+<div class="fluid1" id="q10">
+  <h3>Question 10</h3>
+  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+</div>
+
+<div class="jumbotron">
   <h3>Answer 10</h3> 
   <p>We specialize in blablabla</p> 
   <p>We specialize in blablabla</p> 
