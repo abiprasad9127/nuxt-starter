@@ -111,8 +111,8 @@ margin-left:20px;
         <span class="icon-bar"></span>                        
       </button>
     </div>
-    <p><strong>Abinaya's Profile</strong></p>
     <div class="collapse navbar-collapse" id="myNavbar">
+    <p color="white"><strong>Abinaya's Profile</strong></p>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#q1">Question1</a></li>
         <li><a href="#q2">Question2</a></li>
@@ -139,7 +139,7 @@ margin-left:20px;
 </div>
 
 <div class="fluid1">
-  <h3>Question 1</h3>
+  <h3 align="center">Question 1</h3>
   <h4>"Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"<br></h4> 
 </div>
 
