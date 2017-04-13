@@ -191,26 +191,24 @@
 
 <div class="fluid1" id="q7">
   <h3>Question 7</h3>
-  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+  <h2>Why do you think SSL/HTTPS is important?</h2> 
 </div>
 
 <div class="jumbotron">
   <h3>Answer 7</h3> 
-  <p>We specialize in blablabla</p> 
-  <p>We specialize in blablabla</p> 
+  <p>SSL and HTTPS help secure the communication between the client and server thrrough the internet from eavsdroppers. Communication through HTTPS and SSL is encrypted between the client and the server. </p> 
 </div>
 
 <div class="fluid1" id="q8">
   <h3>Question 8</h3>
-  <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
-  <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
+  <h2>Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users</h2> 
 </div>
 
 <div class="jumbotron">
   <h3>Answer 8</h3> 
-  <p>We specialize in blablabla</p> 
-  <p>We specialize in blablabla</p> 
+  <p>DNS records
+
+When a ping to a host fails, try pinging the host by IP address instead of the name. If it responds then the you will have to check the DNS server to make sure that a Host (A) record exists for the host. If the DNS serves does not have an appropriate Host(A) record it will be unable to resolve the host's name.</p>
 </div>
 
 <div class="fluid1" id="q9">
