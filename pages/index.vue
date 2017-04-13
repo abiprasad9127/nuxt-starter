@@ -26,12 +26,12 @@
 }
 
  img {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   opacity:0.5;
   float: left;
   margin: 30px 30px;
-  padding:30px 30px;
+  padding:40px 40px;
 }
 
 .first{
@@ -157,7 +157,14 @@ float:left;
    *Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub</p>
 </div>
 
-<div class="fluid1" id="q2">
+<div id="q2">
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
+<div class="fluid1">
   <h3>Question 2</h3>
   <h4>"What is your favorite thing about providing technical support?"<br></h4> 
 </div>
@@ -167,7 +174,14 @@ float:left;
   <p>There is always a huge learning curve with technical support because it helps me understand the real time issues of the product and keeps me updated about all the new features and its issues. That way it helps me understand and analayse better about the product as a whole.</p>
 </div>
 
-<div class="fluid1" id="q3">
+<div id="q3">
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
+<div class="fluid1">
   <h3>Question 3<br></h3> 
   <h4>What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)<br></h4>
 </div>
@@ -177,7 +191,14 @@ float:left;
   <p>We specialize in blablabla</p> 
 </div>
 
-<div class="fluid1" id="q4">
+<div id="q4">
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
+<div class="fluid1">
   <h3>Question 4</h3> 
   <h4>Tell about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.<br></h4>
 </div>
@@ -185,6 +206,13 @@ float:left;
 <div class="jumbotron">
   <h3>Answer 4</h3> 
   <p>It was great using the staticgen I was asked to refer. I started with using jekyll, but later I wasn't very comfortable with it because of it was all in Ruby and I decided to go ahead with nuxt ( hence, the extended period). I am new to web designing and github. And I must admit, it was a lot of fun seeing my continuious progression getting deployed on Netlify. I was also guided by w3schools to through the development of the web page.</p> 
+</div>
+
+<div id="q5">
+<br/>
+<br/>
+<br/>
+<br/>
 </div>
 
 <div class="fluid1" id="q5">
@@ -197,7 +225,14 @@ float:left;
   <p>I had a great time working on this assesment, and working on netlify. Everything was just done easily and it worked great with time! I can only just suggest to limit this assesment with time, because otherwise I found myself continuously trying to improve the web page and explore more static generators.</p> 
 </div>
 
-<div class="fluid1" id="q6">
+<div id="q6">
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
+<div class="fluid1">
   <h3>Question 6</h3>
   <h4>Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done.</h4> 
 </div>
@@ -207,7 +242,14 @@ float:left;
   <p>W3school helped me a lot through this assesment, because it gives a step by step guide for beginners in web designing (like me!). Through their guided documents and snippets I was not only able to understand and reproduce the framework for the web page but also customize it based on my liking.</p> 
 </div>
 
-<div class="fluid1" id="q7">
+<div id="q7">
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
+<div class="fluid1">
   <h3>Question 7</h3>
   <h4>Why do you think SSL/HTTPS is important?</h4> 
 </div>
@@ -217,7 +259,14 @@ float:left;
   <p>SSL and HTTPS help secure the communication between the client and server through the internet from eavsdroppers. Communication through HTTPS and SSL is encrypted between the client and the server. </p> 
 </div>
 
-<div class="fluid1" id="q8">
+<div id="q8">
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
+<div class="fluid1">
   <h3>Question 8</h3>
   <h4>Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users</h4> 
 </div>
@@ -228,7 +277,14 @@ float:left;
   When a ping to a host fails, try pinging the host by IP address instead of the name. If it responds then the you will have to check the DNS server to make sure that a Host (A) record exists for the host. If the DNS serves does not have an appropriate Host(A) record it will be unable to resolve the host's name.</p>
 </div>
 
-<div class="fluid1" id="q9">
+<div id="q9">
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
+<div class="fluid1">
   <h3>Question 9</h3>
   <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
   <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
@@ -240,7 +296,14 @@ float:left;
   <p>We specialize in blablabla</p> 
 </div>
 
-<div class="fluid1" id="q10">
+<div id="q10">
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
+<div class="fluid1">
   <h3>Question 10</h3>
   <h2><strong>MISSION:</strong> Our mission lorem ipsum..</h2> 
   <p><strong>VISION:</strong> Our vision Lorem ipsum..</p>
