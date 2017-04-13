@@ -217,9 +217,9 @@ margin-left:20px;
   <h4>Tell about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.<br></h4>
 </div>
 
-<div class="jumbotron"
+<div class="jumbotron">
    <h3>Answer 4</h3></p>
-  <p>>It was great using the staticgen I was asked to refer. I was given multiple static generator tools in various languages. I started with using jekyll, but I stumbled upon various build errors, predominantly about the gemspec file. Later I decided to go ahead with nuxt ( hence, the extended period). I am new to web designing and github. And I must admit, it was a lot of fun seeing my continuious progression getting deployed on Netlify. I was also guided by w3schools to through the development of the web page.</p> 
+  <p>It was great using the staticgen I was asked to refer. I was given multiple static generator tools in various languages. I started with using jekyll, but I stumbled upon various build errors, predominantly about the gemspec file. Later I decided to go ahead with nuxt ( hence, the extended period). I am new to web designing and github. And I must admit, it was a lot of fun seeing my continuious progression getting deployed on Netlify. I was also guided by w3schools to through the development of the web page.</p> 
 </div>
 
 <div id="q5">
