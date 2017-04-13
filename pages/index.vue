@@ -280,7 +280,7 @@ margin-left:20px;
 <div class="jumbotron">
   <h3>Answer 8</h3> 
   <p>DNS records<br/>
- <p>Failure To Properly Secure Resource Records
+ <p>Failure To Properly Secure Resource Records:
 If you use a BIND-style primary master to store a zone, you shouldn’t allow dynamic updates. Windows can’t secure updates to a text-based zone file. Any machine can assert itself as an existing host and overwrite the A record with a new IP address. This essentially allows a machine to hijack the DNS records of another machine.</p>
   <p>Another major challenge with the DNS is its inflexibility.
 Traditionally the root record points to an IP address, tying a service to an IP address is extremely limiting. Let us assume a new blogging platoform, WordRise starts up. It allows users to use custom domains that points users to its infrastructure. Exx.com signs up and WordRise.com give it an IP address. As more customers sign up the supply of IP address is limited. When Exx.com starts using too many of WordRise.com's resources ( maybe because they are being attacked or featured) the other customers of WordRise receive poor performance. Hence the suolution is CNAME, CNAME is an alias which allows one domain to point to another domain. When Exx.com starts using too many resources WordRise can update its CNAME and isolate EXX.com from oher customers.</p>
@@ -339,13 +339,13 @@ Traditionally the root record points to an IP address, tying a service to an IP 
    <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <h4>"I had a great time answering your questions!"<br><span>Let us keep in touch!</span></h4>
+        <h2>I had a great time answering your questions!<br><span>Let us keep in touch!</span></h2>
       </div>
       <div class="item">
-        <h4>"Mail me:"<br><span>abiprasad91@gmail.com</span></h4>
+        <h2>Mail me:<br><span>abiprasad91@gmail.com</span></h2>
       </div>
       <div class="item">
-        <h4>"Call me!"<br><span>617 987 7276</span></h4>
+        <h2>Call me!<br><span>617 987 7276</span></h2>
       </div>
     </div>
 
