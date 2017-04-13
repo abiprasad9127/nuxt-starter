@@ -23,6 +23,11 @@
     color: #ffffff;
 }
 
+.img {
+  width: 50px;
+  height: 50px;
+}
+
 .navbar {
     margin-bottom: 0;
     background-color: #f4511e;
